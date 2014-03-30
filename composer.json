@@ -1,0 +1,16 @@
+{
+    "name": "jpirkey/WebServices.PHP",
+    "homepage": "http://www.mercurypay.com/",
+    "description": "Simple PHP web app to demo processing transactions with Mercury's web services platform.",
+    "keywords": ["mercury", "payment", "mercury payment systems"],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mercury Payment Systems, LLC",
+            "homepage": "http://www.mercurypay.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    }
+}

@@ -1,5 +1,5 @@
 {
-    "name": "jpirkey/WebServices.PHP",
+    "name": "jpirkey/mercury-php-webservices",
     "homepage": "http://www.mercurypay.com/",
     "description": "Simple PHP web app to demo processing transactions with Mercury's web services platform.",
     "keywords": ["mercury", "payment", "mercury payment systems"],
